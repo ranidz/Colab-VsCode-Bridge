@@ -57,6 +57,8 @@ upload_to_kaggle(
 * Active connection to Colab kernel in VS Code
 * Kaggle API credentials (for Kaggle features)
 
+## Note
+**Use the legacy Kaggle API token, as the Colab runtime currently uses Kaggle CLI v1.7.**
 ## Usage
 
 **Read**
@@ -81,10 +83,6 @@ This is an early-stage project. Bug reports and feature requests are welcome via
 
 MIT License
 
-## Author
-
-**ranidzkellou**
-
 ---
 
- **Note** : This is v0.1.0 - early release bridging VS Code Colab extension gaps.
+ **Note** : This is v0.1.1 - early release bridging VS Code Colab extension gaps.
