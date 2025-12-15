@@ -15,10 +15,11 @@ ENV/
 
 # Dev Notebooks
 notebooks/
+
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
-
+*.ipynb
 # Poetry
 poetry.lock
 
