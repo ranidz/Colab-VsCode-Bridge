@@ -1,0 +1,18 @@
+[project]
+name = "kaggle-colab-bridge"
+version = "0.1.0"
+description = "A package that simplifies Kaggle authentication, enables direct file uploads from Colab to Kaggle, and allows downloading smaller files from Colab to a local PC."
+authors = [{ name = "ranidzkellou", email = "kellour77@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+keywords = ["colab", "kaggle", "jupyter", "upload", "download"]
+license = "MIT"
+
+[tool.poetry]
+packages = [{ include = "kaggle_colab_bridge", from = "src" }]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
