@@ -1,4 +1,4 @@
-* [ ] Kaggle-Colab Bridge
+#  Kaggle-Colab Bridge
 
 A Python package to simplify file transfers between Google Colab, Kaggle datasets, and your local machine.
 

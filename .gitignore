@@ -13,6 +13,8 @@ dist/
 venv/
 ENV/
 
+# Dev Notebooks
+notebooks/
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints
