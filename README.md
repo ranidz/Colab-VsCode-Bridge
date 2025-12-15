@@ -59,21 +59,8 @@ upload_to_kaggle(
 
 ## Usage
 
-### Upload Files to Colab
-
-(Coming soon - detailed usage instructions)
-
-### Download Files from Colab
-
-(Coming soon - detailed usage instructions)
-
-### Kaggle Authentication
-
-(Coming soon - detailed usage instructions)
-
-### Upload to Kaggle
-
-(Coming soon - detailed usage instructions)
+**Read**
+https://github.com/ranidz/Colab-VsCode-Bridge/blob/main/docs/useDetails.md
 
 ## Roadmap
 
