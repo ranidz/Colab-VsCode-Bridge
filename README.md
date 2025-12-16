@@ -30,7 +30,7 @@ pip install colab-vscode-bridge
 ## Quick Start
 
 ```python
-from colab_vscode_bridge import upload_to_colab, download_from_colab, authenticate_kaggle, upload_to_kaggle
+from colab_vscode_bridge import upload_to_colab, ColabFileDownloader, authenticate_kaggle, upload_to_kaggle
 
 # Upload local file to Colab
 upload_to_colab(destination_folder='/content/data.csv')
