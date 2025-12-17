@@ -24,7 +24,7 @@ This package fills the gaps in VS Code's Colab extension by providing:
 ## Installation
 
 ```bash
-pip install colab-vscode-bridge
+!pip install colab-vscode-bridge
 ```
 
 ## Quick Start
